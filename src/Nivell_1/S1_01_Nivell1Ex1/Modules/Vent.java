@@ -1,4 +1,4 @@
-package S1_01_Nivell1Ex1;
+package Nivell_1.S1_01_Nivell1Ex1.Modules;
 
 public class Vent extends Instrument {
 
